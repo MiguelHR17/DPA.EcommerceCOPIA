@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using DPA.Ecommerce.DOMAIN.Core.DTOs;
 using DPA.Ecommerce.DOMAIN.Core.Entities;
 using DPA.Ecommerce.DOMAIN.Core.Interfaces;
-
+//NADA SOLO ESTOY PROBANDO...
 namespace DPA.Ecommerce.DOMAIN.Core.Services
 {
     public class CategoryService : ICategoryService
